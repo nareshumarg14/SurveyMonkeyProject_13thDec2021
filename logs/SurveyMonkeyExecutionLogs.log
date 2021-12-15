@@ -1,0 +1,132 @@
+[INFO ] 13-12-2021 09:43:38.966 TC001_Login_Test - Chrome Browser is launched successfully
+[INFO ] 13-12-2021 09:43:42.667 TC001_Login_Test - Survey Monkey application is opened successfully
+[INFO ] 13-12-2021 09:43:43.142 TC001_Login_Test - seleniumtraining2 - is entered successfully
+[INFO ] 13-12-2021 09:43:43.295 TC001_Login_Test - selenium1234 - is entered successfully
+[INFO ] 13-12-2021 09:43:43.419 TC001_Login_Test - Clicked on Login button
+[INFO ] 13-12-2021 09:43:47.173 TC001_Login_Test - User successfully logged in
+[INFO ] 13-12-2021 09:43:47.980 TC001_Login_Test - Application closed successfully
+[INFO ] 13-12-2021 09:48:57.083 TC001_Login_Test - Chrome Browser is launched successfully
+[INFO ] 13-12-2021 09:49:00.692 TC001_Login_Test - Survey Monkey application is opened successfully
+[INFO ] 13-12-2021 09:49:01.004 TC001_Login_Test - seleniumtraining2 - is entered successfully
+[INFO ] 13-12-2021 09:49:01.178 TC001_Login_Test - selenium1234 - is entered successfully
+[INFO ] 13-12-2021 09:49:01.288 TC001_Login_Test - Clicked on Login button
+[INFO ] 13-12-2021 09:49:05.030 TC001_Login_Test - User successfully logged in
+[INFO ] 13-12-2021 09:49:05.889 TC001_Login_Test - Application closed successfully
+[INFO ] 13-12-2021 09:49:07.269 TC002_Verify_ForgotUnOrPasswordLink - Chrome Browser is launched successfully
+[INFO ] 13-12-2021 09:49:11.281 TC002_Verify_ForgotUnOrPasswordLink - Survey Monkey application is opened successfully
+[INFO ] 13-12-2021 09:49:11.356 TC002_Verify_ForgotUnOrPasswordLink - Forgot username or password? link is displayed
+[INFO ] 13-12-2021 09:49:12.229 TC002_Verify_ForgotUnOrPasswordLink - Application closed successfully
+[INFO ] 13-12-2021 09:57:12.051 TC001_Login_Test - Chrome Browser is launched successfully
+[INFO ] 13-12-2021 09:57:15.880 TC001_Login_Test - Survey Monkey application is opened successfully
+[INFO ] 13-12-2021 09:57:16.273 TC001_Login_Test - seleniumtraining2 - is entered successfully
+[INFO ] 13-12-2021 09:57:16.443 TC001_Login_Test - selenium1234 - is entered successfully
+[INFO ] 13-12-2021 09:57:16.555 TC001_Login_Test - Clicked on Login button
+[INFO ] 13-12-2021 09:57:20.384 TC001_Login_Test - User successfully logged in
+[INFO ] 13-12-2021 09:57:21.126 TC001_Login_Test - Application closed successfully
+[INFO ] 13-12-2021 09:57:22.546 TC002_Verify_ForgotUnOrPasswordLink - Chrome Browser is launched successfully
+[INFO ] 13-12-2021 09:57:26.537 TC002_Verify_ForgotUnOrPasswordLink - Survey Monkey application is opened successfully
+[INFO ] 13-12-2021 09:57:26.842 TC002_Verify_ForgotUnOrPasswordLink - Forgot username or password? link is displayed
+[INFO ] 13-12-2021 09:57:27.570 TC002_Verify_ForgotUnOrPasswordLink - Application closed successfully
+[INFO ] 13-12-2021 09:59:30.585 TC002_Verify_ForgotUnOrPasswordLink - Chrome Browser is launched successfully
+[INFO ] 13-12-2021 09:59:30.812 TC001_Login_Test - Chrome Browser is launched successfully
+[INFO ] 13-12-2021 09:59:35.374 TC001_Login_Test - Survey Monkey application is opened successfully
+[INFO ] 13-12-2021 09:59:35.932 TC002_Verify_ForgotUnOrPasswordLink - Survey Monkey application is opened successfully
+[INFO ] 13-12-2021 09:59:36.042 TC002_Verify_ForgotUnOrPasswordLink - Forgot username or password? link is displayed
+[INFO ] 13-12-2021 09:59:36.374 TC001_Login_Test - seleniumtraining2 - is entered successfully
+[INFO ] 13-12-2021 09:59:36.538 TC001_Login_Test - selenium1234 - is entered successfully
+[INFO ] 13-12-2021 09:59:36.656 TC001_Login_Test - Clicked on Login button
+[INFO ] 13-12-2021 09:59:36.850 TC002_Verify_ForgotUnOrPasswordLink - Application closed successfully
+[INFO ] 13-12-2021 09:59:40.370 TC001_Login_Test - User successfully logged in
+[INFO ] 13-12-2021 09:59:41.121 TC001_Login_Test - Application closed successfully
+[INFO ] 14-12-2021 08:21:39.717 TC001_Login_Test - Chrome Browser is launched successfully
+[INFO ] 14-12-2021 08:21:39.944 TC002_Verify_ForgotUnOrPasswordLink - Chrome Browser is launched successfully
+[INFO ] 14-12-2021 08:21:45.264 TC001_Login_Test - Survey Monkey application is opened successfully
+[INFO ] 14-12-2021 08:21:46.511 TC002_Verify_ForgotUnOrPasswordLink - Survey Monkey application is opened successfully
+[INFO ] 14-12-2021 08:21:46.668 TC002_Verify_ForgotUnOrPasswordLink - Forgot username or password? link is displayed
+[INFO ] 14-12-2021 08:21:47.206 TC001_Login_Test - seleniumtraining2 - is entered successfully
+[INFO ] 14-12-2021 08:21:47.564 TC002_Verify_ForgotUnOrPasswordLink - Application closed successfully
+[INFO ] 14-12-2021 08:21:47.565 TC001_Login_Test - selenium1234 - is entered successfully
+[INFO ] 14-12-2021 08:21:47.793 TC001_Login_Test - Clicked on Login button
+[INFO ] 14-12-2021 08:21:52.861 TC001_Login_Test - User successfully logged in
+[INFO ] 14-12-2021 08:21:53.804 TC001_Login_Test - Application closed successfully
+[INFO ] 14-12-2021 08:22:20.534 TC001_Login_Test - Chrome Browser is launched successfully
+[INFO ] 14-12-2021 08:22:25.401 TC001_Login_Test - Survey Monkey application is opened successfully
+[INFO ] 14-12-2021 08:22:25.962 TC001_Login_Test - seleniumtraining2 - is entered successfully
+[INFO ] 14-12-2021 08:22:26.352 TC001_Login_Test - selenium1234 - is entered successfully
+[INFO ] 14-12-2021 08:22:26.529 TC001_Login_Test - Clicked on Login button
+[INFO ] 14-12-2021 08:22:31.003 TC001_Login_Test - User successfully logged in
+[INFO ] 14-12-2021 08:22:31.965 TC001_Login_Test - Application closed successfully
+[INFO ] 14-12-2021 08:22:34.050 TC002_Verify_ForgotUnOrPasswordLink - Chrome Browser is launched successfully
+[INFO ] 14-12-2021 08:22:38.234 TC002_Verify_ForgotUnOrPasswordLink - Survey Monkey application is opened successfully
+[INFO ] 14-12-2021 08:22:38.671 TC002_Verify_ForgotUnOrPasswordLink - Forgot username or password? link is displayed
+[INFO ] 14-12-2021 08:22:39.801 TC002_Verify_ForgotUnOrPasswordLink - Application closed successfully
+[INFO ] 14-12-2021 08:46:59.808 TC001_Login_Test - Chrome Browser is launched successfully
+[INFO ] 14-12-2021 08:47:04.256 TC001_Login_Test - Survey Monkey application is opened successfully
+[INFO ] 14-12-2021 08:47:04.924 TC001_Login_Test - seleniumtraining2 - is entered successfully
+[INFO ] 14-12-2021 08:47:05.201 TC001_Login_Test - selenium1234 - is entered successfully
+[INFO ] 14-12-2021 08:47:06.920 TC001_Login_Test - Application screenshot is captured successfully
+[INFO ] 14-12-2021 08:47:07.166 TC001_Login_Test - Clicked on Login button
+[INFO ] 14-12-2021 08:47:13.834 TC001_Login_Test - Application screenshot is captured successfully
+[INFO ] 14-12-2021 08:47:14.028 TC001_Login_Test - User successfully logged in
+[INFO ] 14-12-2021 08:47:14.885 TC001_Login_Test - Application closed successfully
+[INFO ] 14-12-2021 08:47:17.389 TC002_Verify_ForgotUnOrPasswordLink - Chrome Browser is launched successfully
+[INFO ] 14-12-2021 08:47:21.462 TC002_Verify_ForgotUnOrPasswordLink - Survey Monkey application is opened successfully
+[INFO ] 14-12-2021 08:47:22.006 TC002_Verify_ForgotUnOrPasswordLink - Forgot username or password? link is displayed
+[INFO ] 14-12-2021 08:47:23.621 TC002_Verify_ForgotUnOrPasswordLink - Application screenshot is captured successfully
+[INFO ] 14-12-2021 08:47:24.370 TC002_Verify_ForgotUnOrPasswordLink - Application closed successfully
+[INFO ] 14-12-2021 09:02:03.652 TC001_Login_Test - Chrome Browser is launched successfully
+[INFO ] 14-12-2021 09:02:07.489 TC001_Login_Test - Survey Monkey application is opened successfully
+[INFO ] 14-12-2021 09:02:08.137 TC001_Login_Test - seleniumtraining2 - is entered successfully
+[INFO ] 14-12-2021 09:02:08.398 TC001_Login_Test - selenium1234 - is entered successfully
+[INFO ] 14-12-2021 09:02:09.997 TC001_Login_Test - Application screenshot is captured successfully
+[INFO ] 14-12-2021 09:02:10.188 TC001_Login_Test - Clicked on Login button
+[INFO ] 14-12-2021 09:02:15.959 TC001_Login_Test - Application screenshot is captured successfully
+[INFO ] 14-12-2021 09:02:16.192 TC001_Login_Test - User successfully logged in
+[INFO ] 14-12-2021 09:02:17.046 TC001_Login_Test - Application closed successfully
+[INFO ] 14-12-2021 09:02:19.531 TC002_Verify_ForgotUnOrPasswordLink - Chrome Browser is launched successfully
+[INFO ] 14-12-2021 09:02:23.167 TC002_Verify_ForgotUnOrPasswordLink - Survey Monkey application is opened successfully
+[INFO ] 14-12-2021 09:02:23.595 TC002_Verify_ForgotUnOrPasswordLink - Forgot username or password? link is displayed
+[INFO ] 14-12-2021 09:02:25.133 TC002_Verify_ForgotUnOrPasswordLink - Application screenshot is captured successfully
+[INFO ] 14-12-2021 09:02:25.935 TC002_Verify_ForgotUnOrPasswordLink - Application closed successfully
+[INFO ] 14-12-2021 09:06:35.293 TC001_Login_Test - Chrome Browser is launched successfully
+[INFO ] 14-12-2021 09:06:39.654 TC001_Login_Test - Survey Monkey application is opened successfully
+[INFO ] 14-12-2021 09:06:40.406 TC001_Login_Test - seleniumtraining2 - is entered successfully
+[INFO ] 14-12-2021 09:06:40.666 TC001_Login_Test - selenium1234 - is entered successfully
+[INFO ] 14-12-2021 09:06:42.354 TC001_Login_Test - Application screenshot is captured successfully
+[INFO ] 14-12-2021 09:06:42.531 TC001_Login_Test - Clicked on Login button
+[INFO ] 14-12-2021 09:06:48.409 TC001_Login_Test - Application screenshot is captured successfully
+[INFO ] 14-12-2021 09:06:48.635 TC001_Login_Test - User successfully logged in
+[INFO ] 14-12-2021 09:06:49.553 TC001_Login_Test - Application closed successfully
+[INFO ] 14-12-2021 09:06:51.840 TC002_Verify_ForgotUnOrPasswordLink - Chrome Browser is launched successfully
+[INFO ] 14-12-2021 09:06:56.087 TC002_Verify_ForgotUnOrPasswordLink - Survey Monkey application is opened successfully
+[INFO ] 14-12-2021 09:06:56.445 TC002_Verify_ForgotUnOrPasswordLink - Forgot username or password? link is displayed
+[INFO ] 14-12-2021 09:06:58.216 TC002_Verify_ForgotUnOrPasswordLink - Application screenshot is captured successfully
+[INFO ] 14-12-2021 09:06:59.013 TC002_Verify_ForgotUnOrPasswordLink - Application closed successfully
+[INFO ] 14-12-2021 09:09:48.198 TC001_Login_Test - Chrome Browser is launched successfully
+[INFO ] 14-12-2021 09:09:52.022 TC001_Login_Test - Survey Monkey application is opened successfully
+[INFO ] 14-12-2021 09:09:52.790 TC001_Login_Test - seleniumtraining2 - is entered successfully
+[INFO ] 14-12-2021 09:09:53.073 TC001_Login_Test - selenium1234 - is entered successfully
+[INFO ] 14-12-2021 09:09:54.616 TC001_Login_Test - Application screenshot is captured successfully
+[INFO ] 14-12-2021 09:09:54.757 TC001_Login_Test - Clicked on Login button
+[INFO ] 14-12-2021 09:09:59.949 TC001_Login_Test - Application screenshot is captured successfully
+[INFO ] 14-12-2021 09:10:00.099 TC001_Login_Test - User successfully logged in
+[INFO ] 14-12-2021 09:10:00.908 TC001_Login_Test - Application closed successfully
+[INFO ] 14-12-2021 09:10:03.329 TC002_Verify_ForgotUnOrPasswordLink - Chrome Browser is launched successfully
+[INFO ] 14-12-2021 09:10:07.614 TC002_Verify_ForgotUnOrPasswordLink - Survey Monkey application is opened successfully
+[INFO ] 14-12-2021 09:10:08.086 TC002_Verify_ForgotUnOrPasswordLink - Forgot username or password? link is displayed
+[INFO ] 14-12-2021 09:10:09.764 TC002_Verify_ForgotUnOrPasswordLink - Application screenshot is captured successfully
+[INFO ] 14-12-2021 09:10:10.560 TC002_Verify_ForgotUnOrPasswordLink - Application closed successfully
+[INFO ] 14-12-2021 09:11:19.882 TC001_Login_Test - Chrome Browser is launched successfully
+[INFO ] 14-12-2021 09:11:24.171 TC001_Login_Test - Survey Monkey application is opened successfully
+[INFO ] 14-12-2021 09:11:25.038 TC001_Login_Test - seleniumtraining2 - is entered successfully
+[INFO ] 14-12-2021 09:11:25.312 TC001_Login_Test - selenium1234 - is entered successfully
+[INFO ] 14-12-2021 09:11:26.953 TC001_Login_Test - Application screenshot is captured successfully
+[INFO ] 14-12-2021 09:11:27.107 TC001_Login_Test - Clicked on Login button
+[INFO ] 14-12-2021 09:11:33.292 TC001_Login_Test - Application screenshot is captured successfully
+[INFO ] 14-12-2021 09:11:33.387 TC001_Login_Test - User successfully logged in
+[INFO ] 14-12-2021 09:11:34.225 TC001_Login_Test - Application closed successfully
+[INFO ] 14-12-2021 09:11:36.505 TC002_Verify_ForgotUnOrPasswordLink - Chrome Browser is launched successfully
+[INFO ] 14-12-2021 09:11:40.953 TC002_Verify_ForgotUnOrPasswordLink - Survey Monkey application is opened successfully
+[INFO ] 14-12-2021 09:11:41.090 TC002_Verify_ForgotUnOrPasswordLink - Forgot username or password? link is displayed
+[INFO ] 14-12-2021 09:11:42.742 TC002_Verify_ForgotUnOrPasswordLink - Application screenshot is captured successfully
+[INFO ] 14-12-2021 09:11:43.520 TC002_Verify_ForgotUnOrPasswordLink - Application closed successfully

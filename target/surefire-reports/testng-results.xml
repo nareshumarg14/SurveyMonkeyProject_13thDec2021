@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SurveyMonkeyRegressionSuite" duration-ms="27157" started-at="2021-12-14T21:11:16 EST" finished-at="2021-12-14T21:11:43 EST">
+    <groups>
+    </groups>
+    <test name="TC001_Login_Test" duration-ms="17864" started-at="2021-12-14T21:11:16 EST" finished-at="2021-12-14T21:11:34 EST">
+      <class name="com.SM.testCases.TC001_Login_Test">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.SM.testCases.TC001_Login_Test@14948e4]" name="setup" is-config="true" duration-ms="7625" started-at="2021-12-14T21:11:16 EST" finished-at="2021-12-14T21:11:24 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.SM.testCases.TC001_Login_Test@14948e4]" name="loginTest" duration-ms="9202" started-at="2021-12-14T21:11:24 EST" finished-at="2021-12-14T21:11:33 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.SM.testCases.TC001_Login_Test@14948e4]" name="tearDown" is-config="true" duration-ms="802" started-at="2021-12-14T21:11:33 EST" finished-at="2021-12-14T21:11:34 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.SM.testCases.TC001_Login_Test -->
+    </test> <!-- TC001_Login_Test -->
+    <test name="TC002_Verify_ForgotUnOrPasswordLink" duration-ms="8834" started-at="2021-12-14T21:11:34 EST" finished-at="2021-12-14T21:11:43 EST">
+      <class name="com.SM.testCases.TC002_Verify_ForgotUnOrPasswordLink">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.SM.testCases.TC002_Verify_ForgotUnOrPasswordLink@1de0b3c]" name="setup" is-config="true" duration-ms="6264" started-at="2021-12-14T21:11:34 EST" finished-at="2021-12-14T21:11:40 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyForgotUsernameOrPasswordLink()[pri:0, instance:com.SM.testCases.TC002_Verify_ForgotUnOrPasswordLink@1de0b3c]" name="verifyForgotUsernameOrPasswordLink" duration-ms="1788" started-at="2021-12-14T21:11:40 EST" finished-at="2021-12-14T21:11:42 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForgotUsernameOrPasswordLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.SM.testCases.TC002_Verify_ForgotUnOrPasswordLink@1de0b3c]" name="tearDown" is-config="true" duration-ms="778" started-at="2021-12-14T21:11:42 EST" finished-at="2021-12-14T21:11:43 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.SM.testCases.TC002_Verify_ForgotUnOrPasswordLink -->
+    </test> <!-- TC002_Verify_ForgotUnOrPasswordLink -->
+  </suite> <!-- SurveyMonkeyRegressionSuite -->
+</testng-results>
